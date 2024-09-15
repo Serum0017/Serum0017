@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serum0017
 - 👀 I’m interested in cool stuff, like game and web development
-- 🌱 I’m currently learning data structures and algorithms!
+- 🌱 I’m currently learning computer architecture and C!
 - 💞️ I’m looking to collaborate on idk maybe some open source
 - 📫 You can reach me on discord, my tag is serum17
 
